@@ -1,8 +1,8 @@
 {
     "serverUrl":"https://app.hitrader.com/index.php/",
     "serverUrlimg":"https://app.hitrader.com/",
-    "serverHeadUrl":"http://res.hitrader.com/head/mobile/",
-    "serverNationalUrl":"http://res.hitrader.com/national/",
-    "couponBusinessUrl":"http://res.hitrader.com/broker/mobile/"
+    "serverHeadUrl":"https://res.hitrader.com/head/mobile/",
+    "serverNationalUrl":"https://res.hitrader.com/national/",
+    "couponBusinessUrl":"https://res.hitrader.com/broker/mobile/"
 }
 
