@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0a5a9d7-fe90-4276-97ba-6ec6cacf11cb" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/en.json" afterPath="$PROJECT_DIR$/en.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/fr.json" afterPath="$PROJECT_DIR$/fr.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/id.json" afterPath="$PROJECT_DIR$/id.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ko.json" afterPath="$PROJECT_DIR$/ko.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ms.json" afterPath="$PROJECT_DIR$/ms.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/ru.json" afterPath="$PROJECT_DIR$/ru.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zhs.json" afterPath="$PROJECT_DIR$/zhs.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/zht.json" afterPath="$PROJECT_DIR$/zht.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="HiTrader.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
