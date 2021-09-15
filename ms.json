@@ -4,6 +4,7 @@
     "serverHeadUrl":"https://res.hitrader.com/head/mobile/",
     "serverNationalUrl":"https://res.hitrader.com/national/",
     "couponBusinessUrl":"https://res.hitrader.com/broker/mobile/",
-    "couponBindUrl":"https://res.hitrader.com/broker/"
+    "couponBindUrl":"https://res.hitrader.com/broker/",
+    "katongUrl":"https://res.hitrader.com/cartoon_head/mobile/"
 }
 
